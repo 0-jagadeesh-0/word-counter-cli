@@ -16,3 +16,14 @@
      ```
    - **Windows:**
      Move the downloaded `.exe` file to a directory included in your PATH by editing the Environment variables.
+
+3. **Use word-counter in your terminal:**
+   - Open terminal
+   ```bash
+   word-counter-cli
+   ```
+
+### Run without downloading
+1. Clone the repository 
+2. cd word-counter-cli
+3. go run .
