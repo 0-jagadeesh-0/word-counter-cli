@@ -4,7 +4,7 @@
 
 1. **Choose Your Operating System:**
    Download the appropriate binary for your operating system:
-   - **[macOS](https://github.com/0-jagadeesh-0/word-counter-cli/releases/download/v0.1.0/word-counter-cli-darwin-amd64)**
+   - **[macOS]([https://github.com/0-jagadeesh-0/word-counter-cli/releases/download/v0.1.0/word-counter-cli-darwin-amd64](https://github.com/0-jagadeesh-0/word-counter-cli/releases/download/v0.1.0/word-counter-cli-darwin-amd64.tar.gz))**
    - **[Linux](https://github.com/0-jagadeesh-0/word-counter-cli/releases/download/v0.1.0/word-counter-cli-linux-amd64)**
    - **[Windows](https://github.com/0-jagadeesh-0/word-counter-cli/releases/download/v0.1.0/word-counter-cli-windows-amd64.exe)** 
 
